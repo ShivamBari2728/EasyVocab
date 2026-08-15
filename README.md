@@ -1,14 +1,11 @@
 
 # EasyVocab
+![Repository Status](https://img.shields.io/badge/Repository-Private-lightgrey?style=for-the-badge)
 
 EasyVocab is an educational mobile application initially designed to help children improve their vocabulary through structured lessons and interactive assessments.
 
 The application provides separate experiences for **teachers and students**. Teachers can create lessons and assessments, while students can access the learning material and complete tests. Teachers can also review student participation and performance through assessment results.
 
-> **Repository:** Private
-> **Platform:** Android / iOS
-> **Current Backend:** Firebase
-> **Status:** Active development
 
 ---
 
