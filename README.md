@@ -1,6 +1,6 @@
 
 # EasyVocab
-![Repository Status](https://img.shields.io/badge/Repository-Private-lightgrey?style=for-the-badge)
+## Code :- https://github.com/ShivamBari2728/wordstudy_app
 
 EasyVocab is an educational mobile application initially designed to help children improve their vocabulary through structured lessons and interactive assessments.
 
