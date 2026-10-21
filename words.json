@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "correctWord": "watch",
+    "options": [
+      "wetch",
+      "watch",
+      "watech",
+      "wach"
+    ]
+  },
+  {
+    "id": 2,
+    "correctWord": "school",
+    "options": [
+      "scool",
+      "school",
+      "shcool",
+      "skool"
+    ]
+  },
+  {
+    "id": 3,
+    "correctWord": "friend",
+    "options": [
+      "freind",
+      "frend",
+      "friend",
+      "freand"
+    ]
+  },
+  {
+    "id": 4,
+    "correctWord": "because",
+    "options": [
+      "becaus",
+      "becouse",
+      "because",
+      "becuase"
+    ]
+  },
+  {
+    "id": 5,
+    "correctWord": "people",
+    "options": [
+      "pepole",
+      "people",
+      "peeple",
+      "peopel"
+    ]
+  },
+  {
+    "id": 6,
+    "correctWord": "beautiful",
+    "options": [
+      "beautifull",
+      "beutiful",
+      "beautiful",
+      "beautifal"
+    ]
+  },
+  {
+    "id": 7,
+    "correctWord": "little",
+    "options": [
+      "littel",
+      "little",
+      "litle",
+      "littal"
+    ]
+  },
+  {
+    "id": 8,
+    "correctWord": "orange",
+    "options": [
+      "orenge",
+      "orange",
+      "orrange",
+      "oranje"
+    ]
+  },
+  {
+    "id": 9,
+    "correctWord": "animal",
+    "options": [
+      "animel",
+      "animal",
+      "anumal",
+      "animall"
+    ]
+  },
+  {
+    "id": 10,
+    "correctWord": "garden",
+    "options": [
+      "gardan",
+      "garden",
+      "gerden",
+      "gardin"
+    ]
+  },
+  {
+    "id": 11,
+    "correctWord": "window",
+    "options": [
+      "windoe",
+      "widnow",
+      "window",
+      "windo"
+    ]
+  },
+  {
+    "id": 12,
+    "correctWord": "pencil",
+    "options": [
+      "pensil",
+      "pencel",
+      "pencil",
+      "pencill"
+    ]
+  },
+  {
+    "id": 13,
+    "correctWord": "morning",
+    "options": [
+      "morining",
+      "morning",
+      "mornig",
+      "marning"
+    ]
+  },
+  {
+    "id": 14,
+    "correctWord": "basket",
+    "options": [
+      "baskit",
+      "basket",
+      "bascet",
+      "baskett"
+    ]
+  },
+  {
+    "id": 15,
+    "correctWord": "yellow",
+    "options": [
+      "yelow",
+      "yallow",
+      "yellow",
+      "yelllow"
+    ]
+  },
+  {
+    "id": 16,
+    "correctWord": "picture",
+    "options": [
+      "picter",
+      "picture",
+      "pictur",
+      "pictuer"
+    ]
+  },
+  {
+    "id": 17,
+    "correctWord": "rabbit",
+    "options": [
+      "rabit",
+      "rabbit",
+      "rabbitt",
+      "rabbet"
+    ]
+  },
+  {
+    "id": 18,
+    "correctWord": "family",
+    "options": [
+      "familey",
+      "family",
+      "famly",
+      "famaly"
+    ]
+  },
+  {
+    "id": 19,
+    "correctWord": "kitchen",
+    "options": [
+      "kichen",
+      "kitchen",
+      "kitchin",
+      "kitchan"
+    ]
+  },
+  {
+    "id": 20,
+    "correctWord": "birthday",
+    "options": [
+      "birthdy",
+      "birthday",
+      "birhtday",
+      "berthday"
+    ]
+  }
+]
